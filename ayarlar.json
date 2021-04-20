@@ -1,0 +1,45 @@
+  {
+    "OKUMADANGECME" : "",
+    "OKUMADANGECME2" : "",
+
+    "sahip" : "827997676670943262",
+    "prefix" : "-",
+    "footer" : "Broken ❤️ Code space",
+
+    "tag" : "TAG",
+    "sembol" : "SEMBOL",
+  
+    "yetkiliRol" : ["İD", "2. YOKSA BOŞ BIRAK", "3. YOKSA BOŞ BIRAK"],
+    "vipRol" : "İD",
+    "boosterRol" : "İD",
+    "kayıtsızRol" : "İD",
+    "erkekRol1" : "İD",
+    "erkekRol2" : ["İD","830360884282261532"],
+    "kadınRol1" : "İD",
+    "kadınRol2" : ["İD","830360884282261533"],
+
+    "sifirEmoji" : "<a:Tsher0:830821947034173461>",
+    "birEmoji" : "<a:Tsher1:830877023358419026>",
+    "ikiEmoji" : "<a:Tsher2:830877245085319269>",
+    "ucEmoji" : "<a:Tsher3:830877215457017886>",
+    "dortEmoji" : "<a:Tsher4:830877183705874525>",
+    "besEmoji" : "<a:Tsher5:830877155520020493>",
+    "altiEmoji" : "İD",
+    "yediEmoji" : "İD",
+    "sekizEmoji" : "İD",
+    "dokuzEmoji" : "İD",
+
+    "tagRol" : "İD",
+
+    "hosgeldinKanal" : "İD",
+    "hosgeldinMesajEmoji" : "İD",
+    "hosgeldinMesajYetkili": "İD",
+    "rulesKanal" : "İD",
+
+    "sohbetKanal" : "İD", 
+  
+    "botSesKanal" : "İD",
+  
+    "yes" : "İD",
+    "no" : "İD"
+}
